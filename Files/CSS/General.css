@@ -35,6 +35,7 @@
   {
     margin-inline: 5%;
     border: 5px solid #47E10C;
+    border-radius: 50px;
     display: inline-block;
     background-color: #dddddd;
   }
